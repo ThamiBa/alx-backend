@@ -105,7 +105,7 @@ This project contains tasks for learning to create internationalized web pages w
     3. Locale from request header.
     4. Default locale.
   + Test by logging in as different users.
-  + ![Hello World! in French with a logged in message](assets/task_6_1.png)
+   ![Hello World! in French with a logged in message](assets/task_6_1.png)
 
 + [x] 7. **Infer appropriate time zone**
   + Copy [6-app.py](6-app.py) into [7-app.py](7-app.py) and [templates/6-index.html](templates/6-index.html) into [templates/7-index.html](templates/7-index.html).
@@ -125,9 +125,10 @@ This project contains tasks for learning to create internationalized web pages w
     |:-|:-|:-|
     | current_time_is | "The current time is %(current_time)s." | "Nous sommes le %(current_time)s." |
   + Displaying the time in French looks like this:
-  + ![Hello World! with a logged in message and the current time in French](assets/task_8_1.png)
+![Hello World! with a logged in message and the current time in French](assets/task_8_1.png)
   + Displaying the time in English looks like this:
-  + ![Hello World! with a logged in message and the current time in English](assets/task_8_2.png)
+
+![Hello World! with a logged in message and the current time in English](assets/task_8_2.png)
 
 ## RESOURCES
 
