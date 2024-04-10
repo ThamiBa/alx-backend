@@ -68,7 +68,7 @@ This project contains tasks for learning to create internationalized web pages w
   + In your `get_locale` function, detect if the incoming request contains `locale` argument and if its value is a supported locale, return it. If not or if the parameter is not present, resort to the previous default behavior.
   + You should be able to test different translations by visiting `http://127.0.0.1:5000?locale=[fr|en]`.
   + Visiting [`http://127.0.0.1:5000/?locale=fr`](http://127.0.0.1:5000/?locale=fr) should display this level 1 heading:
-  + ![Hello World! in French](assets/task_4_1.png)
+  > ![Hello World! in French](assets/task_4_1.png)
 
 + [x] 5. **Mock logging in**
   + Copy [4-app.py](4-app.py) into [5-app.py](5-app.py) and [templates/4-index.html](templates/4-index.html) into [templates/5-index.html](templates/5-index.html).
