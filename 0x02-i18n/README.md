@@ -125,9 +125,9 @@ This project contains tasks for learning to create internationalized web pages w
     |:-|:-|:-|
     | current_time_is | "The current time is %(current_time)s." | "Nous sommes le %(current_time)s." |
   + Displaying the time in French looks like this:
-    > ![Hello World! with a logged in message and the current time in French](assets/task_8_1.png)
+  > ![Hello World! with a logged in message and the current time in French](assets/task_8_1.png)
   + Displaying the time in English looks like this:
-    > ![Hello World! with a logged in message and the current time in English](assets/task_8_2.png)
+  > ![Hello World! with a logged in message and the current time in English](assets/task_8_2.png)
 
 ## RESOURCES
 
