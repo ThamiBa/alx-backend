@@ -92,9 +92,9 @@ This project contains tasks for learning to create internationalized web pages w
     | logged_in_as | "You are logged in as %(username)s." | "Vous êtes connecté en tant que %(username)s." |
     | not_logged_in | "You are not logged in." | "Vous n'êtes pas connecté." |
   + Visiting [http://127.0.0.1:5000/](http://127.0.0.1:5000/) in your browser should display this:
-  + ![Hello World! in English with a logged out message](assets/task_5_1.png)
+  > ![Hello World! in English with a logged out message](assets/task_5_1.png)
   + Visiting [http://127.0.0.1:5000/?login_as=2](http://127.0.0.1:5000/?login_as=2) in your browser should display this:
-  + ![Hello World! in English with a logged in message](assets/task_5_2.png)
+  > ![Hello World! in English with a logged in message](assets/task_5_2.png)
 
 + [x] 6. **Use user locale**
   + Copy [5-app.py](5-app.py) into [6-app.py](6-app.py) and [templates/5-index.html](templates/5-index.html) into [templates/6-index.html](templates/6-index.html).
@@ -105,7 +105,7 @@ This project contains tasks for learning to create internationalized web pages w
     3. Locale from request header.
     4. Default locale.
   + Test by logging in as different users.
-   ![Hello World! in French with a logged in message](assets/task_6_1.png)
+   > ![Hello World! in French with a logged in message](assets/task_6_1.png)
 
 + [x] 7. **Infer appropriate time zone**
   + Copy [6-app.py](6-app.py) into [7-app.py](7-app.py) and [templates/6-index.html](templates/6-index.html) into [templates/7-index.html](templates/7-index.html).
